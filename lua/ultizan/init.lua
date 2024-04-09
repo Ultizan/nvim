@@ -1,2 +1,3 @@
 require("ultizan.remap")
-print("hello from ultizan")
+require("ultizan.set")
+require("ultizan.lazy_init")

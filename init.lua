@@ -1,2 +1,1 @@
 require("ultizan")
-print("hello")
