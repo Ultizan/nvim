@@ -1,0 +1,2 @@
+require("ultizan")
+print("hello")
